@@ -1,9 +1,10 @@
 streamlit==1.35.0
-pandas==2.3.3
-numpy==2.3.3
+numpy==1.26.4
+pandas==2.2.6
 scikit-learn==1.5.2
-torch==2.2.2+cpu
+torch==2.8.0+cpu
 torchvision==0.17.2+cpu
-torchaudio==2.2.2+cpu
+torchaudio==2.8.0+cpu
 joblib==1.4.2
 -f https://download.pytorch.org/whl/cpu
+
