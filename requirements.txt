@@ -1,6 +1,10 @@
-streamlit==1.39.0
-pandas==2.2.3
+--upgrade pip
+streamlit==1.35.0
+pandas==2.2.2
 numpy==1.26.4
-scikit-learn==1.5.2
-torch==2.4.1
+scikit-learn==1.4.2
+torch==2.2.2+cpu
+torchvision==0.17.2+cpu
+torchaudio==2.2.2+cpu
 joblib==1.4.2
+--extra-index-url https://download.pytorch.org/whl/cpu
